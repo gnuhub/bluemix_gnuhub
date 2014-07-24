@@ -1,8 +1,8 @@
 applications:
 - disk_quota: 1024M
-  host: gnuhub
+  host: blog
   name: gnuhub
   path: .
-  domain: mybluemix.net
+  domain: bluemix.gnuhub.com
   instances: 1
   memory: 128M

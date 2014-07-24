@@ -20,4 +20,4 @@ Focused on quickly creating web applications in Ruby with minimal effort.
 
 		cf push gnuhub
 
-7. Access your app: [gnuhub.mybluemix.net](//gnuhub.mybluemix.net)
+7. Access your app: [blog.bluemix.gnuhub.com](//blog.bluemix.gnuhub.com)
